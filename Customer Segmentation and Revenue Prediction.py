@@ -1,4 +1,4 @@
-# ### Task 1: Exploratory Data Analysis (EDA)
+# ### Exploratory Data Analysis (EDA)
 # 1. Loaded the dataset and displayed general information about it.
 # 2. Determined the number of unique SOURCE and their frequencies.
 # 3. Calculated the number of unique PRICE and displayed their frequencies.
